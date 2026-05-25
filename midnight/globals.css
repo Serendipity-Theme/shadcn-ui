@@ -1,0 +1,30 @@
+/* Serendipity Serendipity Midnight — shadcn/ui CSS variables */
+@layer base {
+  :root {
+    --background: #151726;
+    --foreground: #dee0ef;
+    --card: #151726;
+    --card-foreground: #dee0ef;
+    --popover: #1c1e2d;
+    --popover-foreground: #dee0ef;
+    --primary: #f8d2c9;
+    --primary-foreground: #151726;
+    --secondary: #1c1e2d;
+    --secondary-foreground: #dee0ef;
+    --muted: #151726;
+    --muted-foreground: #8d8f9e;
+    --accent: #ee8679;
+    --accent-foreground: #dee0ef;
+    --destructive: #ee8679;
+    --destructive-foreground: #dee0ef;
+    --border: #8d8f9e33;
+    --input: #8d8f9e33;
+    --ring: #f8d2c9;
+    --chart-1: #5ba2d0;
+    --chart-2: #94b8ff;
+    --chart-3: #a78bfa;
+    --chart-4: #5ba2d0;
+    --chart-5: #ee8679;
+    --radius: 0.5rem;
+  }
+}

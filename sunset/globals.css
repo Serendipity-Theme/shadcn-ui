@@ -1,0 +1,30 @@
+/* Serendipity Serendipity Sunset — shadcn/ui CSS variables */
+@layer base {
+  :root {
+    --background: #202231;
+    --foreground: #dee0ef;
+    --card: #202231;
+    --card-foreground: #dee0ef;
+    --popover: #272938;
+    --popover-foreground: #dee0ef;
+    --primary: #d6b4b4;
+    --primary-foreground: #202231;
+    --secondary: #272938;
+    --secondary-foreground: #dee0ef;
+    --muted: #202231;
+    --muted-foreground: #6b6d7c;
+    --accent: #d1918f;
+    --accent-foreground: #dee0ef;
+    --destructive: #d1918f;
+    --destructive-foreground: #dee0ef;
+    --border: #6b6d7c33;
+    --input: #6b6d7c33;
+    --ring: #d6b4b4;
+    --chart-1: #709bbd;
+    --chart-2: #a0b6e8;
+    --chart-3: #a392dc;
+    --chart-4: #709bbd;
+    --chart-5: #d1918f;
+    --radius: 0.5rem;
+  }
+}
